@@ -1,0 +1,51 @@
+#nr1,
+#nr2
+ {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    h1 {
+        color: crimson;
+
+    }
+
+    h4 {
+        color: green;
+    }
+}
+
+#nr3 {
+    display: flex;
+    align-items: center;
+
+    div {
+        width: 80px;
+        height: 80px;
+        background-color: #2c74e8;
+        border-radius: 50%;
+        margin-top: 20px;
+    }
+}
+#nr4{
+    display: flex;
+    align-items: center;
+
+    div {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin-top: 20px;
+    }
+}
+
+#nr5 {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+#nr6 {
+    display: flex;
+    margin: 15px;
+}
